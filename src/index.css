@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#parallax {
+  background: radial-gradient(black, #38073b);
+  height: 1305px;
+  position: relative;
+}
+
+#trans {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.01), white);
+}
+#container1 {
+  cursor: crosshair;
+}
+
+#container1:active {
+  cursor: url(../public/assets/target.png), auto;
+}

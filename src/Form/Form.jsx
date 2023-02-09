@@ -42,9 +42,7 @@ const FormOtentikasi = () => {
     let firstAlph = text.slice(0, 1);
     const firstAlp = firstAlph.toUpperCase();
     let UserName = firstAlp + text.slice(1, text.length);
-    console.log(firstAlph);
-    console.log(firstAlp);
-    console.log(UserName);
+
     alert(
       `Hello ${UserName}, Your registration successful. Please to Sign In ...`
     );

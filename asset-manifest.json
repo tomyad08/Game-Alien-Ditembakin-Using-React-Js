@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Game-Alien-Ditembakin-Using-React-Js/static/css/main.a852e672.css",
+    "main.js": "/Game-Alien-Ditembakin-Using-React-Js/static/js/main.648ce460.js",
+    "static/js/787.8fe8e248.chunk.js": "/Game-Alien-Ditembakin-Using-React-Js/static/js/787.8fe8e248.chunk.js",
+    "static/media/target.png": "/Game-Alien-Ditembakin-Using-React-Js/static/media/target.4d48522c881c961b580e.png",
+    "index.html": "/Game-Alien-Ditembakin-Using-React-Js/index.html",
+    "main.a852e672.css.map": "/Game-Alien-Ditembakin-Using-React-Js/static/css/main.a852e672.css.map",
+    "main.648ce460.js.map": "/Game-Alien-Ditembakin-Using-React-Js/static/js/main.648ce460.js.map",
+    "787.8fe8e248.chunk.js.map": "/Game-Alien-Ditembakin-Using-React-Js/static/js/787.8fe8e248.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a852e672.css",
+    "static/js/main.648ce460.js"
+  ]
+}
